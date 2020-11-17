@@ -2,22 +2,11 @@
 <p> Hi, I am Chelsea!</p>
 ---
 ### Education
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<p> University of Rhode Island <br> Bachelor's of Science </p>
 
 ---
 ### Work Experience
-<p> Belmonts </p>
-
----
-### Recent Projects
-
-
----
-
-
-
+<p> RI Space Consortium <br> Belmont's </p>
 
 ---
 
